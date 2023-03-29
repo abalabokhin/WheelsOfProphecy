@@ -239,3 +239,7 @@
 @3171="愿伊尔马特的祝福与你同行。"
 @3172="愿正义与你同行。"
 @3173="巴萨札之友即吾辈之友。"
+
+// Heads comments
+@3180=~This head is silent.~
+@3181=~Some enchantment seems to be keeping you from approaching the head. You cannot immediately discern its source, though you sense that it is somewhere close by.~

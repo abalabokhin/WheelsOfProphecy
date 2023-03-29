@@ -238,6 +238,10 @@ Ce journal contient essentiellement un mélange de considérations quasiment relig
 @3172="Que votre chemin soit vertueux."
 @3173="Nous vous voyons tel que Balthazar vous voit."
 
+// Heads comments
+@3180=~This head is silent.~
+@3181=~Some enchantment seems to be keeping you from approaching the head. You cannot immediately discern its source, though you sense that it is somewhere close by.~
+
 // WeiDU prompts
 @-1000= "Le mod %TP2_FILE_NAME% contient"
 @-1001= "composants optionnels distincts.

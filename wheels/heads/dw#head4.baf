@@ -42,7 +42,7 @@ IF
 		Global("DMWWGrove","GLOBAL",2)
 THEN
 	RESPONSE #100
-		DisplayString(Myself,~This head is silent.~) 
+		DisplayString(Myself,@3180) 
 END
 
 IF
